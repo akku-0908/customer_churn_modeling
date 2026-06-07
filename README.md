@@ -30,7 +30,3 @@ To run this project locally, follow these simple steps:
 ```bash
 git clone [https://github.com/akku-0908/customer_churn_modeling.git](https://github.com/akku-0908/customer_churn_modeling.git)
 cd customer_churn_modeling<img width="316" height="271" alt="Screenshot 2026-06-07 231705" src="https://github.com/user-attachments/assets/83c7a863-537d-430a-a5bf-9acf967f0d1d" />
-<img width="716" height="233" alt="Screenshot 2026-06-07 231721" src="https://github.com/user-attachments/assets/89b62d4f-a748-4548-985b-65b960e749b7" />
-<img width="517" height="359" alt="Screenshot 2026-06-07 231734" src="https://github.com/user-attachments/assets/99aac969-0a53-43fd-8c1e-1bd284c94904" />
-<img width="372" height="297" alt="Screenshot 2026-06-07 231743" src="https://github.com/user-attachments/assets/5f158f2d-18ea-459f-8338-a6000e6ecdca" />
-
