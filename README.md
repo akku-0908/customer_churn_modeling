@@ -29,4 +29,4 @@ To run this project locally, follow these simple steps:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/akku-0908/customer_churn_modeling.git](https://github.com/akku-0908/customer_churn_modeling.git)
-cd customer_churn_modeling<img width="316" height="271" alt="Screenshot 2026-06-07 231705" src="https://github.com/user-attachments/assets/83c7a863-537d-430a-a5bf-9acf967f0d1d" />
+cd customer_churn_modeling
